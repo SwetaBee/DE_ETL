@@ -57,7 +57,7 @@ List of steps necessary to pipeline the data into the data model:
 ## Run Data Quality checks
  My Data Quality checks on the fact and dimension tables were able to query correctly.
  
-#### Step 5: Complete Project Write Up
+### Step 5: Complete Project Write Up
 
 I chose Spark for this project because it is known for processing large amount of data (with less compute time), scale easily with additional worker nodes and integrate appropriately with cloud storage like S3 and data warehouse like Redshift.Spark can also handle different file formats.
 
